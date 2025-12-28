@@ -1,0 +1,20 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/.idea": true,
+        "**/.github": true,
+        "**/.venv": true,
+        "**/.history": true
+    },
+    "search.exclude": {
+        "**/.github": true,
+        "**/.vscode": true,
+        "**/.DS_Store": true,
+        "**/.idea": true,
+        "**/.git": true,
+        "**/.venv": true,
+        "**/.history": true
+    },
+}
